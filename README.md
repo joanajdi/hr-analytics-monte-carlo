@@ -39,7 +39,7 @@ The project was structured across a robust data pipeline:
 
 ## Probability Distribution (Simulation Results)
 
-![Monte Carlo Histogram](figura1-distribuicao_probabilidade_impacto_trabalho_hibrido.png)
+![Monte Carlo Histogram](figure1-probability_distribution_impact_hybrid_work.png)
 
 *The histogram proves that the entire simulated distribution (blue) shifts strictly to the left of the current baseline (red dashed line), validating hybrid work as a mathematically secure strategy for risk mitigation.*
 
