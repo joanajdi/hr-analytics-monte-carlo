@@ -6,13 +6,6 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
 
-## 📖 Table of Contents
-* [📌 Executive Summary](#-executive-summary)
-* [🧬 The Core Metric: Bio-Debt Index](#-the-core-metric-bio-debt-index)
-* [🏗️ Data Architecture & Methodology](#️-data-architecture--methodology)
-* [📈 Probability Distribution (Results)](#-probability-distribution-simulation-results)
-* [💻 Tech Stack](#-tech-stack)
-
 ## Executive Summary
 Traditional People Analytics relies on historical averages, suffering from the "Fallacy of Averages"—assuming an "average" employee represents the entire workforce, which masks individual burnout risks. 
 
