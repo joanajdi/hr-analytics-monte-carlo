@@ -1,5 +1,10 @@
 # HR Analytics: Monte Carlo Simulation for Hybrid Work Impact
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
+
 > **Transitioning HR from Descriptive to Predictive Analytics:** A stochastic simulation predicting the impact of hybrid work policies on employee burnout and well-being.
 
 ## Executive Summary
