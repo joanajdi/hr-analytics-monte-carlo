@@ -1,11 +1,16 @@
 # HR Analytics: Monte Carlo Simulation for Hybrid Work Impact
-
+> **Transitioning HR from Descriptive to Predictive Analytics:** A stochastic simulation predicting the impact of hybrid work policies on employee burnout and well-being.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
 
-> **Transitioning HR from Descriptive to Predictive Analytics:** A stochastic simulation predicting the impact of hybrid work policies on employee burnout and well-being.
+## 📖 Table of Contents
+* [📌 Executive Summary](#-executive-summary)
+* [🧬 The Core Metric: Bio-Debt Index](#-the-core-metric-bio-debt-index)
+* [🏗️ Data Architecture & Methodology](#️-data-architecture--methodology)
+* [📈 Probability Distribution (Results)](#-probability-distribution-simulation-results)
+* [💻 Tech Stack](#-tech-stack)
 
 ## Executive Summary
 Traditional People Analytics relies on historical averages, suffering from the "Fallacy of Averages"—assuming an "average" employee represents the entire workforce, which masks individual burnout risks. 
